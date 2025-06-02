@@ -78,11 +78,6 @@ OpenAI API key (for GPT-4 agent)
 
 ElasticSearch (if using full RAG mode)
 
-🚀 Spin It Up Locally
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/autonomous-security-agent.git
 cd autonomous-security-agent
 
 # Set up virtual environment
@@ -112,7 +107,6 @@ Explanation from GPT-4
 
 Recommended actions ("block IP, notify admin")
 
-Referenced CVE (CVE-2023-xxxxx)
 
 🛠 How It Works
 Reinforcement Learning Agent (Detector)
